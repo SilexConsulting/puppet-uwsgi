@@ -1,0 +1,8 @@
+name 'ideas-uwsgi'
+version '1.0.0'
+source 'git://github.com/ideas/puppet-uwsgi.git'
+author 'Ideapod'
+description 'Puppet module for managing uWSGI on Ubuntu'
+summary 'Puppet module for managing uWSGI on Ubuntu'
+license 'Apache'
+project_page 'https://github.com/ideas/puppet-uwsgi'
