@@ -1,4 +1,4 @@
-This module has been saved from deleted (or privatized) repo ideas/uwsgi
+This module has been saved from deleted (or privatized) repo ideas/puppet-uwsgi
 
 Puppet module for managing uWSGI on Ubuntu
 ==========================================
